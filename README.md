@@ -10,3 +10,7 @@ DOMAIN : EMBEDDED SYSTEMS
 DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
+
+#OUTPUT
+
+[Image](https://github.com/user-attachments/assets/ab89e05a-e669-436e-9b36-8f40f9ee2497)
